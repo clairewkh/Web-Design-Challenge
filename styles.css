@@ -1,5 +1,13 @@
 h3{
   color:cadetblue;
+  font-weight: bolder;
+}
+
+h5{
+    color: darkturquoise;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:800;
+    
 }
 
 body{
